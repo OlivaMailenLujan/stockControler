@@ -1,0 +1,197 @@
+# depslib dependency file v1.0
+1656352562 source:c:\users\brisa\onedrive\escritorio\yo\utn\1° cuatrimentre\programacion 1 y laboratorio 1\tp final\tpfinalmenu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"pila.h"
+	<conio.h>
+	<windows.h>
+
+1490112217 c:\users\brisa\onedrive\escritorio\yo\utn\1° cuatrimentre\programacion 1 y laboratorio 1\tp final\tpfinalmenu\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\brisa\onedrive\escritorio\yo\utn\1° cuatrimentre\programacion 1 y laboratorio 1\tp final\tpfinalmenu\pila.c
+	"pila.h"
+
+1490112217 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\pila.c
+	"pila.h"
+
+1656383569 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1656383252 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\archivos.c
+	<stdio.h>
+	"estructuras.h"
+	"menus.h"
+	"archivos.h"
+	"empleado.h"
+	"compra.h"
+
+1656382637 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\estructuras.h
+
+1656382948 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\menus.h
+
+1656381621 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\archivos.h
+
+1656382637 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\empleado.h
+
+1656382637 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\compra.h
+	"producto.h"
+	"stdio.h"
+	"pila.h"
+
+1656382637 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\producto.h
+	"estructuras.h"
+
+1656383252 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\compra.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+	"menus.h"
+	"archivos.h"
+	"compra.h"
+
+1656383252 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+	"menus.h"
+	"archivos.h"
+	"empleado.h"
+	"compra.h"
+
+1656354249 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\estructuras.c
+	"estructuras.h"
+
+1656383324 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"menus.h"
+	"usuarios.h"
+	"archivos.h"
+
+1656381621 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\usuarios.h
+	"estructuras.h"
+
+1656383252 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	<conio.h>
+	<windows.h>
+	"estructuras.h"
+	"menus.h"
+	"usuarios.h"
+	"archivos.h"
+	"empleado.h"
+	"compra.h"
+
+1656383252 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\producto.c
+	<stdio.h>
+	"estructuras.h"
+	"compra.h"
+
+1656383252 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tpfinalaso\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+	"usuarios.h"
+	"ctype.h"
+
+1656424205 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\archivos.c
+	<stdio.h>
+	"estructuras.h"
+	"menus.h"
+	"archivos.h"
+	"empleado.h"
+	"compra.h"
+
+1656382637 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\estructuras.h
+
+1656382948 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\menus.h
+
+1656381621 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\archivos.h
+
+1656382637 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\empleado.h
+
+1656382637 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\compra.h
+	"producto.h"
+	"stdio.h"
+	"pila.h"
+
+1656382637 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\producto.h
+	"estructuras.h"
+
+1656383569 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1656424205 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+	"menus.h"
+	"archivos.h"
+	"empleado.h"
+	"compra.h"
+
+1656354249 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\estructuras.c
+	"estructuras.h"
+
+1656383324 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"menus.h"
+	"usuarios.h"
+	"archivos.h"
+
+1656381621 d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\usuarios.h
+	"estructuras.h"
+
+1656424205 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	<conio.h>
+	<windows.h>
+	"estructuras.h"
+	"menus.h"
+	"usuarios.h"
+	"archivos.h"
+	"empleado.h"
+	"compra.h"
+
+1490112217 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\pila.c
+	"pila.h"
+
+1656424205 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\producto.c
+	<stdio.h>
+	"estructuras.h"
+	"compra.h"
+
+1656424205 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+	"usuarios.h"
+	"ctype.h"
+
+1656424205 source:d:\usuario\desktop\utn\primer cuatrimestre 2022\laboratorio y programacion 1\tp final 2022(bien)\compra.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+	"menus.h"
+	"archivos.h"
+	"compra.h"
+
